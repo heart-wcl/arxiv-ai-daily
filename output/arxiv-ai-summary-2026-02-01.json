@@ -1,0 +1,37 @@
+{
+  "total": 116,
+  "categories": [
+    {
+      "name": "cs.LG",
+      "count": 21,
+      "emoji": "🧠"
+    },
+    {
+      "name": "cs.RO",
+      "count": 17,
+      "emoji": "🦾"
+    },
+    {
+      "name": "cs.CV",
+      "count": 16,
+      "emoji": "👁️"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "RedSage: A Cybersecurity Generalist LLM...",
+      "summary": "【cs.CR】Naufal Suryanto等RedSage，在cs.CR取得新进展。",
+      "url": "https://arxiv.org/abs/2601.22159v1"
+    },
+    {
+      "title": "One-step Latent-free Image Generation with Pixel M...",
+      "summary": "【cs.CV】Yiyang Lu等One-step Latent-free Image Generation with Pixel Mean Flows，使用Modern diffusion/flow-based mo...，在cs.CV取得新进展。",
+      "url": "https://arxiv.org/abs/2601.22158v1"
+    },
+    {
+      "title": "Discovering Hidden Gems in Model Repositories...",
+      "summary": "【cs.LG】Jonathan Kahana等Discovering Hidden Gems in Model Repositories，使用We therefore formulate model d...，在cs.LG取得新进展。",
+      "url": "https://arxiv.org/abs/2601.22157v1"
+    }
+  ]
+}
