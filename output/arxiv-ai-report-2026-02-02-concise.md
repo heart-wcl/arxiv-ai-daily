@@ -5,7 +5,7 @@
    【cs.CV】Hongyang Du等VideoGPA，使用To address this, we introduce ...，在cs.CV取得新进展。
    🔗 https://arxiv.org/abs/2601.23286v1
 
-2. **cs.RO** End-to-end 寻找最佳参数或解决方案的过程（undefined） of Belief and Policy Le...
+2. **cs.RO** End-to-end 优化（寻找最佳参数或解决方案的过程） of Belief and Policy Learning ...
    【cs.RO】MH Farhadi等End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms，使用We validated our algorithm aga...，在cs.RO取得新进展。
    🔗 https://arxiv.org/abs/2601.23285v1
 
