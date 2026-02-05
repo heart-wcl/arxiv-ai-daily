@@ -1,0 +1,95 @@
+{
+  "date": "2026年2月5日星期四",
+  "papers": [
+    {
+      "number": 1,
+      "title": "EventNeuS: 3D Mesh Reconstruction from a Single Event Camera",
+      "authors": "Shreyas Sachan、Viktor Rudnev、Mohamed Elgharib 等",
+      "summary": "Event cameras offer a considerable alternative to RGB cameras in many scenarios. While there are rec...",
+      "category": "计算机视觉",
+      "arxivUrl": "http://arxiv.org/abs/2602.03847v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03847v1.pdf"
+    },
+    {
+      "number": 2,
+      "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning",
+      "authors": "Romain Cosentino",
+      "summary": "We develop a continual learning method for pretrained models that \\emph{requires no access to old-ta...",
+      "category": "机器学习",
+      "arxivUrl": "http://arxiv.org/abs/2602.03846v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03846v1.pdf"
+    },
+    {
+      "number": 3,
+      "title": "Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing",
+      "authors": "Tong Zheng、Chengsong Huang、Runpeng Dai 等",
+      "summary": "Parallel thinking has emerged as a promising paradigm for reasoning, yet it imposes significant comp...",
+      "category": "计算语言学",
+      "arxivUrl": "http://arxiv.org/abs/2602.03845v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03845v1.pdf"
+    },
+    {
+      "number": 4,
+      "title": "Investigating Quantum Circuit Designs Using Neuro-Evolution",
+      "authors": "Devroop Kar、Daniel Krutz、Travis Desell",
+      "summary": "Designing effective quantum circuits remains a central challenge in quantum computing, as circuit st...",
+      "category": "神经计算",
+      "arxivUrl": "http://arxiv.org/abs/2602.03840v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03840v1.pdf"
+    },
+    {
+      "number": 5,
+      "title": "Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL",
+      "authors": "Erfan Miahi、Eugene Belilovsky",
+      "summary": "Reinforcement learning (RL) is a critical component for post-training large language models (LLMs). ...",
+      "category": "机器学习",
+      "arxivUrl": "http://arxiv.org/abs/2602.03839v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03839v1.pdf"
+    },
+    {
+      "number": 6,
+      "title": "PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization",
+      "authors": "Erzhen Hu、Frederik Brudy、David Ledo 等",
+      "summary": "In pre-production, filmmakers and 3D animation experts must rapidly prototype ideas to explore a fil...",
+      "category": "cs.HC",
+      "arxivUrl": "http://arxiv.org/abs/2602.03838v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03838v1.pdf"
+    },
+    {
+      "number": 7,
+      "title": "Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
+      "authors": "David P. Woodruff、Vincent Cohen-Addad、Lalit Jain 等",
+      "summary": "Recent advances in large language models (LLMs) have opened new avenues for accelerating scientific ...",
+      "category": "计算语言学",
+      "arxivUrl": "http://arxiv.org/abs/2602.03837v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03837v1.pdf"
+    },
+    {
+      "number": 8,
+      "title": "AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations",
+      "authors": "Minjun Zhu、Zhen Lin、Yixuan Weng 等",
+      "summary": "High-quality scientific illustrations are crucial for effectively communicating complex scientific a...",
+      "category": "人工智能",
+      "arxivUrl": "http://arxiv.org/abs/2602.03828v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03828v1.pdf"
+    },
+    {
+      "number": 9,
+      "title": "Continuous Control of Editing Models via Adaptive-Origin Guidance",
+      "authors": "Alon Wolf、Chen Katzir、Kfir Aberman 等",
+      "summary": "Diffusion-based editing models have emerged as a powerful tool for semantic image and video manipula...",
+      "category": "计算机视觉",
+      "arxivUrl": "http://arxiv.org/abs/2602.03826v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03826v1.pdf"
+    },
+    {
+      "number": 10,
+      "title": "Robust Intervention Learning from Emergency Stop Interventions",
+      "authors": "Ethan Pronovost、Khimya Khetarpal、Siddhartha Srinivasa",
+      "summary": "Human interventions are a common source of data in autonomous systems during testing. These interven...",
+      "category": "机器学习",
+      "arxivUrl": "http://arxiv.org/abs/2602.03825v1",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03825v1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "fetchDate": "2026-02-05T01:01:41.240Z",
+  "totalPapers": 10,
+  "startIndex": 0,
+  "papers": [
+    {
+      "id": "http://arxiv.org/abs/2602.03847v1",
+      "title": "EventNeuS: 3D Mesh Reconstruction from a Single Event Camera",
+      "summary": "Event cameras offer a considerable alternative to RGB cameras in many scenarios. While there are recent works on event-based novel-view synthesis, dense 3D mesh reconstruction remains scarcely explored and existing event-based techniques are severely limited in their 3D reconstruction accuracy. To a...",
+      "authors": [
+        "Shreyas Sachan",
+        "Viktor Rudnev",
+        "Mohamed Elgharib",
+        "Christian Theobalt",
+        "Vladislav Golyanik"
+      ],
+      "published": "2026-02-03T18:59:57Z",
+      "primaryCategory": "cs.CV",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03847v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03847v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03846v1",
+      "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning",
+      "summary": "We develop a continual learning method for pretrained models that \\emph{requires no access to old-task data}, addressing a practical barrier in foundation model adaptation where pretraining distributions are often unavailable. Our key observation is that pretrained networks exhibit substantial \\emph...",
+      "authors": [
+        "Romain Cosentino"
+      ],
+      "published": "2026-02-03T18:59:42Z",
+      "primaryCategory": "cs.LG",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03846v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03846v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03845v1",
+      "title": "Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing",
+      "summary": "Parallel thinking has emerged as a promising paradigm for reasoning, yet it imposes significant computational burdens. Existing efficiency methods primarily rely on local, per-trajectory signals and lack principled mechanisms to exploit global dynamics across parallel branches. We introduce 2D probi...",
+      "authors": [
+        "Tong Zheng",
+        "Chengsong Huang",
+        "Runpeng Dai",
+        "Yun He",
+        "Rui Liu",
+        "Xin Ni",
+        "Huiwen Bao",
+        "Kaishen Wang",
+        "Hongtu Zhu",
+        "Jiaxin Huang",
+        "Furong Huang",
+        "Heng Huang"
+      ],
+      "published": "2026-02-03T18:59:41Z",
+      "primaryCategory": "cs.CL",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03845v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03845v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03840v1",
+      "title": "Investigating Quantum Circuit Designs Using Neuro-Evolution",
+      "summary": "Designing effective quantum circuits remains a central challenge in quantum computing, as circuit structure strongly influences expressivity, trainability, and hardware feasibility. Current approaches, whether using manually designed circuit templates, fixed heuristics, or automated rules, face limi...",
+      "authors": [
+        "Devroop Kar",
+        "Daniel Krutz",
+        "Travis Desell"
+      ],
+      "published": "2026-02-03T18:57:39Z",
+      "primaryCategory": "cs.NE",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03840v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03840v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03839v1",
+      "title": "Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL",
+      "summary": "Reinforcement learning (RL) is a critical component for post-training large language models (LLMs). However, in bandwidth-constrained distributed RL, scalability is often bottlenecked by the synchronization of policy weights from trainers to inference workers, particularly over commodity networks or...",
+      "authors": [
+        "Erfan Miahi",
+        "Eugene Belilovsky"
+      ],
+      "published": "2026-02-03T18:56:48Z",
+      "primaryCategory": "cs.LG",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03839v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03839v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03838v1",
+      "title": "PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization",
+      "summary": "In pre-production, filmmakers and 3D animation experts must rapidly prototype ideas to explore a film's possibilities before fullscale production, yet conventional approaches involve trade-offs in efficiency and expressiveness. Hand-drawn storyboards often lack spatial precision needed for complex c...",
+      "authors": [
+        "Erzhen Hu",
+        "Frederik Brudy",
+        "David Ledo",
+        "George Fitzmaurice",
+        "Fraser Anderson"
+      ],
+      "published": "2026-02-03T18:56:40Z",
+      "primaryCategory": "cs.HC",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03838v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03838v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03837v1",
+      "title": "Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
+      "summary": "Recent advances in large language models (LLMs) have opened new avenues for accelerating scientific research. While models are increasingly capable of assisting with routine tasks, their ability to contribute to novel, expert-level mathematical discovery is less understood. We present a collection o...",
+      "authors": [
+        "David P. Woodruff",
+        "Vincent Cohen-Addad",
+        "Lalit Jain",
+        "Jieming Mao",
+        "Song Zuo",
+        "MohammadHossein Bateni",
+        "Simina Branzei",
+        "Michael P. Brenner",
+        "Lin Chen",
+        "Ying Feng",
+        "Lance Fortnow",
+        "Gang Fu",
+        "Ziyi Guan",
+        "Zahra Hadizadeh",
+        "Mohammad T. Hajiaghayi",
+        "Mahdi JafariRaviz",
+        "Adel Javanmard",
+        "Karthik C. S.",
+        "Ken-ichi Kawarabayashi",
+        "Ravi Kumar",
+        "Silvio Lattanzi",
+        "Euiwoong Lee",
+        "Yi Li",
+        "Ioannis Panageas",
+        "Dimitris Paparas",
+        "Benjamin Przybocki",
+        "Bernardo Subercaseaux",
+        "Ola Svensson",
+        "Shayan Taherijam",
+        "Xuan Wu",
+        "Eylon Yogev",
+        "Morteza Zadimoghaddam",
+        "Samson Zhou",
+        "Vahab Mirrokni"
+      ],
+      "published": "2026-02-03T18:56:17Z",
+      "primaryCategory": "cs.CL",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03837v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03837v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03828v1",
+      "title": "AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations",
+      "summary": "High-quality scientific illustrations are crucial for effectively communicating complex scientific and technical concepts, yet their manual creation remains a well-recognized bottleneck in both academia and industry. We present FigureBench, the first large-scale benchmark for generating scientific i...",
+      "authors": [
+        "Minjun Zhu",
+        "Zhen Lin",
+        "Yixuan Weng",
+        "Panzhong Lu",
+        "Qiujie Xie",
+        "Yifan Wei",
+        "Sifan Liu",
+        "Qiyao Sun",
+        "Yue Zhang"
+      ],
+      "published": "2026-02-03T18:41:43Z",
+      "primaryCategory": "cs.AI",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03828v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03828v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03826v1",
+      "title": "Continuous Control of Editing Models via Adaptive-Origin Guidance",
+      "summary": "Diffusion-based editing models have emerged as a powerful tool for semantic image and video manipulation. However, existing models lack a mechanism for smoothly controlling the intensity of text-guided edits. In standard text-conditioned generation, Classifier-Free Guidance (CFG) impacts prompt adhe...",
+      "authors": [
+        "Alon Wolf",
+        "Chen Katzir",
+        "Kfir Aberman",
+        "Or Patashnik"
+      ],
+      "published": "2026-02-03T18:33:39Z",
+      "primaryCategory": "cs.CV",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03826v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03826v1"
+    },
+    {
+      "id": "http://arxiv.org/abs/2602.03825v1",
+      "title": "Robust Intervention Learning from Emergency Stop Interventions",
+      "summary": "Human interventions are a common source of data in autonomous systems during testing. These interventions provide an important signal about where the current policy needs improvement, but are often noisy and incomplete. We define Robust Intervention Learning (RIL) as the problem of learning from int...",
+      "authors": [
+        "Ethan Pronovost",
+        "Khimya Khetarpal",
+        "Siddhartha Srinivasa"
+      ],
+      "published": "2026-02-03T18:33:21Z",
+      "primaryCategory": "cs.LG",
+      "pdfUrl": "http://arxiv.org/pdf/2602.03825v1.pdf",
+      "absUrl": "http://arxiv.org/abs/2602.03825v1"
+    }
+  ]
+}
